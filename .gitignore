@@ -33,3 +33,5 @@ Makefile
 *.gcno
 *.pro.user
 travis_qmake_gcc_cpp14
+
+
