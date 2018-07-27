@@ -11,3 +11,4 @@ int main()
   a[3] = 0; // Access violation!
   std::cout << a[0] << f() << '\n';
 }
+
