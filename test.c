@@ -1,6 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
+ 
 int main()
 {
-printf("hdgfds");
-return 0;
+  int c, n=20, fact = 1;
+ 
+
+ 
+  for (c = 1; c <= n; c++)
+    fact = fact * c;
+ 
+  printf("Factorial of %d = %d\n", n, fact);
+ 
+  return 0;
 }
