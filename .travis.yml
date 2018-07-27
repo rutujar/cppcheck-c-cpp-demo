@@ -3,8 +3,8 @@ matrix:
     - language: c
       sudo: false # only for faster builds
       script:
-        - gcc -o wiper wiper.c
-        - ./wiper
+        - gcc -o test test.c
+        - ./test
     - language: cpp
       compiler: gcc
       dist: trusty
