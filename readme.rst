@@ -1,2 +1,2 @@
-.. image:: https://travis-ci.org/rutujar/cppcheck.svg?branch=master
-    :target: https://travis-ci.org/rutujar/cppcheck
+.. image:: https://travis-ci.org/rutujar/helloworld_travis_demo.svg?branch=master
+    :target: https://travis-ci.org/rutujar/helloworld_travis_demo
